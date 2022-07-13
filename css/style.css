@@ -1,0 +1,13 @@
+body {
+    background-color: #d8e7e2;
+    color: rgb(42, 78, 58);
+  }
+  a {
+    color: rgb(48, 94, 69);
+  }
+  hr {
+   
+    border-style: none;
+    border-top: 5px dotted rgb(42, 78, 58);
+    width: 50px;
+  }
