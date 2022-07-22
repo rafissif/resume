@@ -3,11 +3,11 @@ body {
     color: #FFFFFF;
   }
   a {
-    color: rgb(48, 133, 86);
+    color: #39e09b;
   }
   hr {
    
     border-style: none;
-    border-top: 5px dotted rgb(42, 78, 58);
+    border-top: 5px dotted #39e09b;
     width: 50px;
   }
